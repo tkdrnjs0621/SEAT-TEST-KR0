@@ -1,4 +1,6 @@
-# SENT-TEST-KR0
+# SEAT-TEST-KR0
+==========This is an empty repository, implementations will be uploaded soon=========
+
 Bias Analysis on Korean pre-trained Language Models (한국어 기반 pre-trained language model에 대한 bias 분석)
 
 2021학년도 가을학기 서울대학교 전기정보공학부 졸업프로젝트 
