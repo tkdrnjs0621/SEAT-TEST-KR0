@@ -17,11 +17,11 @@ The demo is quite self explanatory, so if you are familiar with the original SEA
 
 Three BERT models are given, and you can add any other BERT models from huggingface.
 
-If you want to add a test,
+If you want to add a test, you should make target and attribute folder just like the given set.
 
 
 ## Report & Poster
-Final report and the poster are included in the repository.
+Final report and the poster are included in the SENT-DEBIAS-KR0 repository https://github.com/tkdrnjs0621/SENT-DEBIAS-KR0.
 
 ## References
 
